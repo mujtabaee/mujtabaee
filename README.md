@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mujtaba
+# 👋 Hey there, I'm Yahya
 
 I'm an MSc graduate in **Electrical and Electronic Engineering** with a passion for building high-impact systems.
 
